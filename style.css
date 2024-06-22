@@ -36,7 +36,7 @@
   margin: 0 auto;
   background-color: rgb(255, 255, 255, 0.2);
   border: 0;
-  cursor: pointer;
+  cursor: progress;
   border-radius: 1.5rem;
 }
 
